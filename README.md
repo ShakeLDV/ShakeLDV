@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShakeLDV
 - 👀 I’m interested in ...
-  Everything IT, Security, and Programming!
+  Everything IT. Security, Programming, and Automation
 - 🌱 I’m currently learning ...
   Python through organization projects and Udemy 100 Days of Code Course,
   Security+ through Jason Dion's Security+ materials
